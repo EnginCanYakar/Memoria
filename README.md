@@ -38,7 +38,8 @@ Memoria is a private diary and photo album app built with Flutter. Capture your 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home_screen.jpeg" width="200"/>
+  <img src="<img width="1024" height="500" alt="Feature graphic" src="https://github.com/user-attachments/assets/1f1771f5-71ee-471f-b5fc-f3344b69b2b3" />
+/>
   <img src="screenshots/add_memory.jpeg" width="200"/>
   <img src="screenshots/memories_map.jpeg" width="200"/>
   <img src="screenshots/security_lock.png" width="200"/>
