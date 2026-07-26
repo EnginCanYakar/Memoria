@@ -101,8 +101,8 @@ If you'd like to use any part of this project, please reach out first.
 
 Developed and maintained by **[Your Name]**.
 
-- Play Store: [Add link]
-- Contact: [Add email or LinkedIn]
+- Play Store: [https://play.google.com/store/apps/details?id=com.mymemoria.app]
+- Contact: [enginyakar4242@gmail.com]
 
 ---
 
