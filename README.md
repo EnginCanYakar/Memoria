@@ -74,34 +74,7 @@ This project follows **Clean Architecture** principles, separating concerns into
 
 ---
 
-## 🚀 Getting Started
 
-### Prerequisites
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) (stable channel)
-- Android Studio / VS Code with Flutter & Dart plugins
-- A Firebase project (if you want to run the backend-dependent features yourself)
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/memoria.git
-cd memoria
-
-# Install dependencies
-flutter pub get
-
-# Run the app
-flutter run
-```
-
-> ⚠️ **Note:** This repository does **not** include Firebase configuration files (`google-services.json`, real values inside `firebase_options.dart`) or signing keys for security reasons. To run the app with your own Firebase backend, create a project in the [Firebase Console](https://console.firebase.google.com/) and generate your own config files with the FlutterFire CLI:
-> ```bash
-> flutterfire configure
-> ```
-
----
 
 ## 🔐 Security & Privacy
 
