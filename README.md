@@ -7,8 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
-  <img  src="https://github.com/user-attachments/assets/190fa6ac-24bb-456b-9e96-50c18e31c282" />
- alt="BLoC"/>
+  <img src="https://img.shields.io/badge/State%20Management-BLoC-3f51b5" alt="BLoC"/>
   <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="License"/>
@@ -39,12 +38,15 @@ Memoria is a private diary and photo album app built with Flutter. Capture your 
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1f1771f5-71ee-471f-b5fc-f3344b69b2b3" />
+  <img <img width="200" alt="Feature graphic" src="https://github.com/user-attachments/assets/46f0745c-7aca-4983-bef8-f58e95c7c9c8" />
+ >
+  <img <img width="200" alt="WhatsApp Image 2026-01-23 at 22 18 08" src="https://github.com/user-attachments/assets/20500d1c-57af-4a7d-9a28-24c8e167cc15" />
 />
-  <img src="screenshots/add_memory.jpeg" width="200"/>
-  <img src="screenshots/memories_map.jpeg" width="200"/>
-  <img src="screenshots/security_lock.png" width="200"/>
-  <img src="screenshots/favorites_themes.jpeg" width="200"/>
+  <img <img width="200" alt="WhatsApp Image 2026-01-23 at 22 25 01" src="https://github.com/user-attachments/assets/e59e3420-bcc2-47b5-833b-7e864d6a244e" />
+/>
+  <img <img width="200" alt="Frame 72" src="https://github.com/user-attachments/assets/4ac0ac53-191e-4c94-b545-edc3d89c3370" />
+  <img <img width="200" alt="WhatsApp Image 2026-01-25 at 00 27 15" src="https://github.com/user-attachments/assets/b1f5c2ec-6a80-44d4-8dfd-87c5b7c1979a" />
+/>
 </p>
 
 ---
