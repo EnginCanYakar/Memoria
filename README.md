@@ -7,7 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/State%20Management-BLoC-3f51b5" alt="BLoC"/>
+  <img  src="https://github.com/user-attachments/assets/190fa6ac-24bb-456b-9e96-50c18e31c282" />
+ alt="BLoC"/>
   <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="License"/>
