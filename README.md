@@ -39,14 +39,11 @@ Memoria is a private diary and photo album app built with Flutter. Capture your 
 
 <p align="center">
   <img <img width="200" alt="Feature graphic" src="https://github.com/user-attachments/assets/46f0745c-7aca-4983-bef8-f58e95c7c9c8" />
- >
-  <img <img width="200" alt="WhatsApp Image 2026-01-23 at 22 18 08" src="https://github.com/user-attachments/assets/20500d1c-57af-4a7d-9a28-24c8e167cc15" />
-/>
-  <img <img width="200" alt="WhatsApp Image 2026-01-23 at 22 25 01" src="https://github.com/user-attachments/assets/e59e3420-bcc2-47b5-833b-7e864d6a244e" />
-/>
-  <img <img width="200" alt="Frame 72" src="https://github.com/user-attachments/assets/4ac0ac53-191e-4c94-b545-edc3d89c3370" />
-  <img <img width="200" alt="WhatsApp Image 2026-01-25 at 00 27 15" src="https://github.com/user-attachments/assets/b1f5c2ec-6a80-44d4-8dfd-87c5b7c1979a" />
-/>
+  <img width="200" alt="WhatsApp Image 2026-01-23 at 22 18 08" src="https://github.com/user-attachments/assets/20500d1c-57af-4a7d-9a28-24c8e167cc15" />
+   <img width="200" alt="WhatsApp Image 2026-01-23 at 22 25 01" src="https://github.com/user-attachments/assets/e59e3420-bcc2-47b5-833b-7e864d6a244e" />
+
+<img width="200" alt="Frame 72" src="https://github.com/user-attachments/assets/4ac0ac53-191e-4c94-b545-edc3d89c3370" />
+<img width="200" alt="WhatsApp Image 2026-01-25 at 00 27 15" src="https://github.com/user-attachments/assets/b1f5c2ec-6a80-44d4-8dfd-87c5b7c1979a" />
 </p>
 
 ---
